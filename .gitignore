@@ -1,0 +1,11 @@
+venv
+.venv
+*.pyc
+credentials.json
+.env
+frontend/node_modules
+frontend/dist
+frontend/.gitignore
+frontend/.package-lock.json
+backend/.env
+backend/.env.dev
